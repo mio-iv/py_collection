@@ -1,0 +1,9 @@
+# /01_df_analysis
+/01_df_analysis/data
+/01_df_analysis/.env
+
+# /02_web_scraping
+/02_web_scraping/.env
+
+# /03_mods
+/03_mods/.env
